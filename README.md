@@ -1,1 +1,1 @@
-# CryptoClustering
+In this project I used my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. I used the StandardScaler method to normalize data from a CSV file from which I designed a K-means model to cluster data points, optimized with Principal Component Analysis. 
